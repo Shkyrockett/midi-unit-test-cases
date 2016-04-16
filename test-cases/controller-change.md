@@ -2,135 +2,135 @@
 
 | Control# | Hex# | Control Function | Example |
 |---|---|---|---|
-| 0 | 0x00 | Bank Select | <audio src="" controls preload></audio> |
-| 1 | 0x01 | Modulation wheel | <audio src="" controls preload></audio> |
-| 2 | 0x02 | Breath Controller | <audio src="" controls preload></audio> |
-| 3 | 0x03 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 4 | 0x04 | Foot Controller | <audio src="" controls preload></audio> |
-| 5 | 0x05 | Portamento Time | <audio src="" controls preload></audio> |
-| 6 | 0x06 | Data Entry MSB | <audio src="" controls preload></audio> |
-| 7 | 0x07 | Channel Volume | <audio src="" controls preload></audio> |
-| 8 | 0x08 | Balance | <audio src="" controls preload></audio> |
-| 9 | 0x09 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 10 | 0x0A | Pan | <audio src="" controls preload></audio> |
-| 11 | 0x0B | Expression | <audio src="" controls preload></audio> |
-| 12 | 0x0C | Effect Control 1 | <audio src="" controls preload></audio> |
-| 13 | 0x0D | Effect Control 2 | <audio src="" controls preload></audio> |
-| 14 | 0x0E | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 15 | 0x0F | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 16 | 0x10 | General Purpose Controller 1 | <audio src="" controls preload></audio> |
-| 17 | 0x11 | General Purpose Controller 2 | <audio src="" controls preload></audio> |
-| 18 | 0x12 | General Purpose Controller 3 | <audio src="" controls preload></audio> |
-| 19 | 0x13 | General Purpose Controller 4 | <audio src="" controls preload></audio> |
-| 20 | 0x14 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 21 | 0x15 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 22 | 0x16 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 23 | 0x17 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 24 | 0x18 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 25 | 0x19 | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 26 | 0x1A | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 27 | 0x1B | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 28 | 0x1C | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 29 | 0x1D | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 30 | 0x1E | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 31 | 0x1F | Undefined | <!-- <audio src="" controls preload></audio> --> |
-| 32 | 0x00 | LSB for Control 0 (Bank Select) | <audio src="" controls preload></audio> |
-| 33 | 0x00 | LSB for Control 1 (Modulation Wheel or Lever) | <audio src="" controls preload></audio> |
-| 34 | 0x00 | LSB for Control 2 (Breath Controller) | <audio src="" controls preload></audio> |
-| 35 | 0x00 | LSB for Control 3 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 36 | 0x00 | LSB for Control 4 (Foot Controller) | <audio src="" controls preload></audio> |
-| 37 | 0x00 | LSB for Control 5 (Portamento Time) | <audio src="" controls preload></audio> |
-| 38 | 0x00 | LSB for Control 6 (Data Entry) | <audio src="" controls preload></audio> |
-| 39 | 0x00 | LSB for Control 7 (Channel Volume, formerly Main Volume) | <audio src="" controls preload></audio> |
-| 40 | 0x00 | LSB for Control 8 (Balance) | <audio src="" controls preload></audio> |
-| 41 | 0x00 | LSB for Control 9 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 42 | 0x00 | LSB for Control 10 (Pan) | <audio src="" controls preload></audio> |
-| 43 | 0x00 | LSB for Control 11 (Expression Controller) | <audio src="" controls preload></audio> |
-| 44 | 0x00 | LSB for Control 12 (Effect control 1) | <audio src="" controls preload></audio> |
-| 45 | 0x00 | LSB for Control 13 (Effect control 2) | <audio src="" controls preload></audio> |
-| 46 | 0x00 | LSB for Control 14 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 47 | 0x00 | LSB for Control 15 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 48 | 0x00 | LSB for Control 16 (General Purpose Controller 1) | <audio src="" controls preload></audio> |
-| 49 | 0x00 | LSB for Control 17 (General Purpose Controller 2) | <audio src="" controls preload></audio> |
-| 50 | 0x00 | LSB for Control 18 (General Purpose Controller 3) | <audio src="" controls preload></audio> |
-| 51 | 0x00 | LSB for Control 19 (General Purpose Controller 4) | <audio src="" controls preload></audio> |
-| 52 | 0x00 | LSB for Control 20 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 53 | 0x00 | LSB for Control 21 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 54 | 0x00 | LSB for Control 22 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 55 | 0x00 | LSB for Control 23 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 56 | 0x00 | LSB for Control 24 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 57 | 0x00 | LSB for Control 25 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 58 | 0x00 | LSB for Control 26 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 59 | 0x00 | LSB for Control 27 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 60 | 0x00 | LSB for Control 28 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 61 | 0x00 | LSB for Control 29 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 62 | 0x00 | LSB for Control 30 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 63 | 0x00 | LSB for Control 31 (Undefined) | <!-- <audio src="" controls preload></audio> --> |
-| 64 | 0x40 | Damper Sustain Pedal on/off | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 100 | 0x64 | Registered Parameter Number LSB | <audio src="" controls preload></audio> |
-| 101 | 0x65 | Registered Parameter Number MSB | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 0 | 0x00 |  | <audio src="" controls preload></audio> |
-| 119 | 0x00 |  | <audio src="" controls preload></audio> |
-| 120 | 0x00 | \[Channel Mode Message\] All Sound Off | <audio src="" controls preload></audio> |
-| 121 | 0x79 | \[Channel Mode Message\] Reset All Controllers All controllers off | <audio src="" controls preload></audio> |
-| 122 | 0x00 | \[Channel Mode Message\] Local Control On/Off | <audio src="" controls preload></audio> |
-| 123 | 0x7B | \[Channel Mode Message\] All notes off | <audio src="" controls preload></audio> |
-| 124 | 0x00 | \[Channel Mode Message\] Omni Mode Off (+ all notes off) | <audio src="" controls preload></audio> |
-| 125 | 0x00 | \[Channel Mode Message\] Omni Mode On (+ all notes off) | <audio src="" controls preload></audio> |
-| 126 | 0x00 | \[Channel Mode Message\] Mono Mode On (+ poly off, + all notes off) | <audio src="" controls preload></audio> |
-| 127 | 0x00 | \[Channel Mode Message\] Poly Mode On (+ mono off, +all notes off) | <audio src="" controls preload></audio> |
+| 0 | 0x00 | Bank Select | <audio src="" controls preload="auto"></audio> |
+| 1 | 0x01 | Modulation wheel | <audio src="" controls preload="auto"></audio> |
+| 2 | 0x02 | Breath Controller | <audio src="" controls preload="auto"></audio> |
+| 3 | 0x03 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 4 | 0x04 | Foot Controller | <audio src="" controls preload="auto"></audio> |
+| 5 | 0x05 | Portamento Time | <audio src="" controls preload="auto"></audio> |
+| 6 | 0x06 | Data Entry MSB | <audio src="" controls preload="auto"></audio> |
+| 7 | 0x07 | Channel Volume | <audio src="" controls preload="auto"></audio> |
+| 8 | 0x08 | Balance | <audio src="" controls preload="auto"></audio> |
+| 9 | 0x09 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 10 | 0x0A | Pan | <audio src="" controls preload="auto"></audio> |
+| 11 | 0x0B | Expression | <audio src="" controls preload="auto"></audio> |
+| 12 | 0x0C | Effect Control 1 | <audio src="" controls preload="auto"></audio> |
+| 13 | 0x0D | Effect Control 2 | <audio src="" controls preload="auto"></audio> |
+| 14 | 0x0E | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 15 | 0x0F | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 16 | 0x10 | General Purpose Controller 1 | <audio src="" controls preload="auto"></audio> |
+| 17 | 0x11 | General Purpose Controller 2 | <audio src="" controls preload="auto"></audio> |
+| 18 | 0x12 | General Purpose Controller 3 | <audio src="" controls preload="auto"></audio> |
+| 19 | 0x13 | General Purpose Controller 4 | <audio src="" controls preload="auto"></audio> |
+| 20 | 0x14 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 21 | 0x15 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 22 | 0x16 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 23 | 0x17 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 24 | 0x18 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 25 | 0x19 | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 26 | 0x1A | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 27 | 0x1B | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 28 | 0x1C | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 29 | 0x1D | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 30 | 0x1E | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 31 | 0x1F | Undefined | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 32 | 0x00 | LSB for Control 0 (Bank Select) | <audio src="" controls preload="auto"></audio> |
+| 33 | 0x00 | LSB for Control 1 (Modulation Wheel or Lever) | <audio src="" controls preload="auto"></audio> |
+| 34 | 0x00 | LSB for Control 2 (Breath Controller) | <audio src="" controls preload="auto"></audio> |
+| 35 | 0x00 | LSB for Control 3 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 36 | 0x00 | LSB for Control 4 (Foot Controller) | <audio src="" controls preload="auto"></audio> |
+| 37 | 0x00 | LSB for Control 5 (Portamento Time) | <audio src="" controls preload="auto"></audio> |
+| 38 | 0x00 | LSB for Control 6 (Data Entry) | <audio src="" controls preload="auto"></audio> |
+| 39 | 0x00 | LSB for Control 7 (Channel Volume, formerly Main Volume) | <audio src="" controls preload="auto"></audio> |
+| 40 | 0x00 | LSB for Control 8 (Balance) | <audio src="" controls preload="auto"></audio> |
+| 41 | 0x00 | LSB for Control 9 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 42 | 0x00 | LSB for Control 10 (Pan) | <audio src="" controls preload="auto"></audio> |
+| 43 | 0x00 | LSB for Control 11 (Expression Controller) | <audio src="" controls preload="auto"></audio> |
+| 44 | 0x00 | LSB for Control 12 (Effect control 1) | <audio src="" controls preload="auto"></audio> |
+| 45 | 0x00 | LSB for Control 13 (Effect control 2) | <audio src="" controls preload="auto"></audio> |
+| 46 | 0x00 | LSB for Control 14 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 47 | 0x00 | LSB for Control 15 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 48 | 0x00 | LSB for Control 16 (General Purpose Controller 1) | <audio src="" controls preload="auto"></audio> |
+| 49 | 0x00 | LSB for Control 17 (General Purpose Controller 2) | <audio src="" controls preload="auto"></audio> |
+| 50 | 0x00 | LSB for Control 18 (General Purpose Controller 3) | <audio src="" controls preload="auto"></audio> |
+| 51 | 0x00 | LSB for Control 19 (General Purpose Controller 4) | <audio src="" controls preload="auto"></audio> |
+| 52 | 0x00 | LSB for Control 20 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 53 | 0x00 | LSB for Control 21 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 54 | 0x00 | LSB for Control 22 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 55 | 0x00 | LSB for Control 23 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 56 | 0x00 | LSB for Control 24 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 57 | 0x00 | LSB for Control 25 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 58 | 0x00 | LSB for Control 26 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 59 | 0x00 | LSB for Control 27 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 60 | 0x00 | LSB for Control 28 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 61 | 0x00 | LSB for Control 29 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 62 | 0x00 | LSB for Control 30 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 63 | 0x00 | LSB for Control 31 (Undefined) | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 64 | 0x40 | Damper Sustain Pedal on/off | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 100 | 0x64 | Registered Parameter Number LSB | <audio src="" controls preload="auto"></audio> |
+| 101 | 0x65 | Registered Parameter Number MSB | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 0 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 119 | 0x00 |  | <audio src="" controls preload="auto"></audio> |
+| 120 | 0x00 | \[Channel Mode Message\] All Sound Off | <audio src="" controls preload="auto"></audio> |
+| 121 | 0x79 | \[Channel Mode Message\] Reset All Controllers All controllers off | <audio src="" controls preload="auto"></audio> |
+| 122 | 0x00 | \[Channel Mode Message\] Local Control On/Off | <audio src="" controls preload="auto"></audio> |
+| 123 | 0x7B | \[Channel Mode Message\] All notes off | <audio src="" controls preload="auto"></audio> |
+| 124 | 0x00 | \[Channel Mode Message\] Omni Mode Off (+ all notes off) | <audio src="" controls preload="auto"></audio> |
+| 125 | 0x00 | \[Channel Mode Message\] Omni Mode On (+ all notes off) | <audio src="" controls preload="auto"></audio> |
+| 126 | 0x00 | \[Channel Mode Message\] Mono Mode On (+ poly off, + all notes off) | <audio src="" controls preload="auto"></audio> |
+| 127 | 0x00 | \[Channel Mode Message\] Poly Mode On (+ mono off, +all notes off) | <audio src="" controls preload="auto"></audio> |
 
 ## Registered Parameter Numbers
 
