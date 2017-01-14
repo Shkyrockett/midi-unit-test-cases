@@ -7,7 +7,7 @@
 ### **1-8 Piano**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 1 | Acoustic Grand | <audio src="./program-change/001-acoustic-grand-Piano-single-quarter-note-test.mid" controls preload="auto"></audio> |
 | 2 | Bright Acoustic | <audio src="./program-change/002-bright-acustic-grand-piano-single-quarter-note-test.mid" controls preload="auto"></audio> |
 | 3 | Electric Grand | <audio src="./program-change/003-electric-grand-piano-single-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -20,7 +20,7 @@
 ### **9-16 Chromatic Percussion**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 9 | Celesta | <audio src="./program-change/009-celesta-single-quarter-note-test.mid" controls preload="auto"></audio> |
 | 10 | Glockenspiel | <audio src="./program-change/010-glockenspiel-single-quarter-note-test.mid" controls preload="auto"></audio> |
 | 11 | Music Box | <audio src="./program-change/011-music-box-single-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -33,7 +33,7 @@
 ### **17-24 Organ**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 17 | Drawbar Organ | <audio src="./program-change/017-drawbar-organ-quarter-note-test.mid" controls preload="auto"></audio> |
 | 18 | Percussive Organ | <audio src="./program-change/018-percussive-organ-quarter-note-test.mid" controls preload="auto"></audio> |
 | 19 | Rock Organ | <audio src="./program-change/019-rock-organ-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -46,7 +46,7 @@
 ### **25-32 Guitar**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 25 | Nylon String Acoustic Guitar | <audio src="./program-change/025-nylon-string-acoustic-guitar-quarter-note-test.mid" controls preload="auto"></audio> |
 | 26 | Steel String Acoustic Guitar | <audio src="./program-change/026-steel-string-acoustic-guitar-quarter-note-test.mid" controls preload="auto"></audio> |
 | 27 | Jazz Electric Guitar | <audio src="./program-change/027-jazz-electric-guitar-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -59,7 +59,7 @@
 ### **33-40 Bass**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 33 | Acoustic Bass | <audio src="./program-change/033-acoustic-bass-quarter-note-test.mid" controls preload="auto"></audio> |
 | 34 | Fingered Electric Bass | <audio src="./program-change/034-fingered-electric-bass-quarter-note-test.mid" controls preload="auto"></audio> |
 | 35 | Picked Electric Bass | <audio src="./program-change/035-picked-electric-bass-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -72,7 +72,7 @@
 ### **41-48 Strings**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 41 | Violin | <audio src="./program-change/041-violin-quarter-note-test.mid" controls preload="auto"></audio> |
 | 42 | Viola | <audio src="./program-change/042-viola-quarter-note-test.mid" controls preload="auto"></audio> |
 | 43 | Cello | <audio src="./program-change/043-cello-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -85,7 +85,7 @@
 ### **49-56 Ensemble**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 49 | Fast String Ensemble | <audio src="./program-change/049-fast-string-ensemble-quarter-note-test.mid" controls preload="auto"></audio> |
 | 50 | Slow String Ensemble | <audio src="./program-change/050-slow-string-ensemble-quarter-note-test.mid" controls preload="auto"></audio> |
 | 51 | Synth Strings 1 | <audio src="./program-change/051-synth-strings-1-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -98,7 +98,7 @@
 ### **57-64 Brass**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 57 | Trumpet | <audio src="./program-change/057-trumpet-quarter-note-test.mid" controls preload="auto"></audio> |
 | 58 | Trombone | <audio src="./program-change/058-trombone-quarter-note-test.mid" controls preload="auto"></audio> |
 | 59 | Tuba | <audio src="./program-change/059-tuba-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -111,7 +111,7 @@
 ### **65-72 Reed**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 65 | Soprano Sax | <audio src="./program-change/065-soprano-sax-quarter-note-test.mid" controls preload="auto"></audio> |
 | 66 | Alto Sax | <audio src="./program-change/066-alto-sax-quarter-note-test.mid" controls preload="auto"></audio> |
 | 67 | Tenor Sax | <audio src="./program-change/067-tennor-sax-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -124,7 +124,7 @@
 ### **73-80 Pipe**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 73 | Piccolo | <audio src="./program-change/073-piccolo-quarter-note-test.mid" controls preload="auto"></audio> |
 | 74 | Flute | <audio src="./program-change/074-flute-quarter-note-test.mid" controls preload="auto"></audio> |
 | 75 | Recorder | <audio src="./program-change/075-recorder-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -137,7 +137,7 @@
 ### **81-88 Synth Lead**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 81 | Square Wave Lead | <audio src="./program-change/081-square-wave-lead-quarter-note-test.mid" controls preload="auto"></audio> |
 | 82 | Sawtooth Wave Lead | <audio src="./program-change/082-sawtooth-wave-lead-quarter-note-test.mid" controls preload="auto"></audio> |
 | 83 | Synth Calliope Lead | <audio src="./program-change/083-synth-calliope-lead-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -150,7 +150,7 @@
 ### **89-96 Synth Pad**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 89 | New Age Fantasia Pad | <audio src="./program-change/089-new-age-fantasia-pad-quarter-note-test.mid" controls preload="auto"></audio> |
 | 90 | Warm Pad | <audio src="./program-change/090-warm-pad-quarter-note-test.mid" controls preload="auto"></audio> |
 | 91 | Polysynth Pad | <audio src="./program-change/091-polysynth-pad-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -163,7 +163,7 @@
 ### **97-104 Synth Effects**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 97 | Ice Rain FX | <audio src="./program-change/079-ice-rain-fx-quarter-note-test.mid" controls preload="auto"></audio> |
 | 98 | Soundtrack FX | <audio src="./program-change/098-soundtrack-fx-quarter-note-test.mid" controls preload="auto"></audio> |
 | 99 | Crystal FX | <audio src="./program-change/099-crystal-fx-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -176,7 +176,7 @@
 ### **105-112 Ethnic**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 105 | Sitar | <audio src="./program-change/105-sitar-quarter-note-test.mid" controls preload="auto"></audio> |
 | 106 | Banjo | <audio src="./program-change/106-banjo-quarter-note-test.mid" controls preload="auto"></audio> |
 | 107 | Shamisen | <audio src="./program-change/107-shamisen-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -189,7 +189,7 @@
 ### **113-12 0 Percussive**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 113 | Tinkle Bell | <audio src="./program-change/113-tinkle-bell-quarter-note-test.mid" controls preload="auto"></audio> |
 | 114 | Agogo | <audio src="./program-change/114-agogo-quarter-note-test.mid" controls preload="auto"></audio> |
 | 115 | Steel Drums | <audio src="./program-change/115-steel-drums-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -202,7 +202,7 @@
 ### **121-128 Sound effects**
 
 | Prog# | Instrument | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 121 | Guitar Fret Noise | <audio src="./program-change/121-guitar-fret-noise-quarter-note-test.mid" controls preload="auto"></audio> |
 | 122 | Breath Noise | <audio src="./program-change/122-breath-noise-quarter-note-test.mid" controls preload="auto"></audio> |
 | 123 | Seashore | <audio src="./program-change/123-seashore-quarter-note-test.mid" controls preload="auto"></audio> |
@@ -217,7 +217,7 @@
 (assigns drum sounds to note numbers | MIDI Channel 10 is for percussion)
 
 | MIDI Key | Drum Sound | Example |
-|---|---|---|
+|---:|:---|:---:|
 | 35 | Acoustic Bass Drum | <audio src="" controls preload="auto"></audio> |
 | 36 | Bass Drum 1 | <audio src="" controls preload="auto"></audio> |
 | 37 | Side Stick | <audio src="" controls preload="auto"></audio> |

@@ -10,3 +10,8 @@ This set of test cases is a work in progress and barely covers a tiny piece of t
 ## References
 
 - [MIDI Specifications](https://www.midi.org/specifications)
+
+### Some Useful Tools For Editing Midi Files For Test Cases
+
+- [MIDIPLEX](https://github.com/stascorp/MIDIPLEX) An open source MIDI event editor for advanced users.
+- [Sekaiju](http://openmidiproject.osdn.jp/Sekaiju_en.html) An open source MIDI sequencer software for creating and editing MIDI data.

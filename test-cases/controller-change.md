@@ -1,7 +1,7 @@
 #Control Change Event Messages 
 
 | Control# | Hex# | Control Function | Example |
-|---|---|---|---|
+|---:|---:|:---|:---:|
 | 0 | 0x00 | Bank Select | <audio src="" controls preload="auto"></audio> |
 | 1 | 0x01 | Modulation wheel | <audio src="" controls preload="auto"></audio> |
 | 2 | 0x02 | Breath Controller | <audio src="" controls preload="auto"></audio> |
