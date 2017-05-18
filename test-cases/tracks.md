@@ -1,8 +1,8 @@
 # Track Chunks
 
 ## Track Count
-
-Track count is a 16 bit big-endian integer.
+ 
+Track count is a 16 bit big-endian unsigned integer. However, it should be noted that some midi parsers expect a signed 16-bit integer. This may not matter in most cases though, as few midi files use more than 12 tracks.
 
 The following test cases are to test various track count ranges that could possibly be found in a Midi file. The test files all have blank tracks to only require reading the header and track chunks without messages getting in the way.
 
@@ -50,8 +50,8 @@ The following test cases are to test various track count ranges that could possi
 | 9999 | 0x270F |  | <audio src=".\tracks\empty-09999-tracks.mid" controls preload="auto"></audio> |
 | 10000 | 0x2710 |  | <audio src=".\tracks\empty-10000-tracks.mid" controls preload="auto"></audio> |
 | 10001 | 0x2711 |  | <audio src=".\tracks\empty-10001-tracks.mid" controls preload="auto"></audio> |
-| 65535 | 0xFFFF | Bto Bytes. Maximum size for a 16 bit big-endian integer. | <audio src=".\tracks\empty-65535-tracks.mid" controls preload="auto"></audio> |
-| 65536 | 0x10000 | Too large to fit in a 16 bit big-endian integer. | <!-- <audio src="" controls preload="auto"></audio> --> |
+| 65535 | 0xFFFF | Two bytes. Maximum size for a 16 bit big-endian integer. | <audio src=".\tracks\empty-65535-tracks.mid" controls preload="auto"></audio> |
+| 65536 | 0x10000 | Too large to fit in a 16 bit big-endian integer. | No example. <!-- <audio src="" controls preload="auto"></audio> --> |
 
 ## References
 
