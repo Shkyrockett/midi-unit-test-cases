@@ -1,10 +1,10 @@
 # Track Chunks
 
 ## Track Count
- 
-Track count is a 16 bit big-endian unsigned integer. However, it should be noted that some midi parsers expect a signed 16-bit integer. This may not matter in most cases though, as few midi files use more than 12 tracks.
 
-The following test cases are to test various track count ranges that could possibly be found in a Midi file. The test files all have blank tracks to only require reading the header and track chunks without messages getting in the way.
+Track count is a 16 bit big-endian unsigned integer. However, it should be noted that some midi parsers expect a signed 16-bit integer. This may not matter in most cases though, as few midi files use more than 12 tracks.  
+
+The following test cases are to test various track count ranges that could possibly be found in a Midi file. The test files all have blank tracks to only require reading the header and track chunks without messages getting in the way.  
 
 | Count | Hex | Description | Example |
 |---:|---:|:---|:---:|

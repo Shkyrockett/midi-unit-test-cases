@@ -1,4 +1,4 @@
-#Control Change Event Messages 
+# Control Change Event Messages
 
 | Control# | Hex# | Control Function | Example |
 |---:|---:|:---|:---:|
@@ -135,39 +135,38 @@
 ## Registered Parameter Numbers
 
 Parameter Number  Parameter Function  Data Entry Value  
-MSB: Control 101 (65H) Value LSB: Control 100 (64H) Value 
-00H 00H Pitch Bend Sensitivity MSB = +/- semitones 
- LSB =+/--cents 
-01H Channel Fine Tuning 
- (formerly Fine Tuning - see MMA RP-022) Resolution 100/8192 cents 
- 00H 00H = -100 cents 
- 40H 00H = A440 
- 7FH 7FH = +100 cents 
-02H Channel Coarse Tuning 
- (formerly Coarse Tuning - see MMA RP-022) Only MSB used 
- Resolution 100 cents 
- 00H = -6400 cents 
- 40H = A440 
- 7FH = +6300 cents 
-03H Tuning Program Change Tuning Program Number 
-04H Tuning Bank Select Tuning Bank Number 
-05H  Modulation Depth Range 
- (see MMA General MIDI Level 2 Specification) For GM2, defined in GM2 Specification. 
- For other systems, defined by manufacturer 
- ...  ...  All RESERVED for future MMA Definition  ... 
-3DH (61) Three Dimensional Sound Controllers 
-00H AZIMUTH ANGLE  See RP-049 
-01H ELEVATION ANGLE  See RP-049 
-02H GAIN  See RP-049 
-03H DISTANCE RATIO  See RP-049 
-04H MAXIMUM DISTANCE  See RP-049 
-05H GAIN AT MAXIMUM DISTANCE  See RP-049 
-06H REFERENCE DISTANCE RATIO  See RP-049 
-07H PAN SPREAD ANGLE  See RP-049 
-08H ROLL ANGLE  See RP-049 
- ...  ...  All RESERVED for future MMA Definition  ... 
-7FH 7FH Null Function Number for RPN/NRPN Setting RPN to 7FH,7FH will disable the data entry, data increment, and data decrement controllers until a new RPN or NRPN is selected. 
-
+MSB: Control 101 (65H) Value LSB: Control 100 (64H) Value  
+00H 00H Pitch Bend Sensitivity MSB = +/- semitones  
+ LSB =+/--cents  
+01H Channel Fine Tuning  
+ (formerly Fine Tuning - see MMA RP-022) Resolution 100/8192 cents  
+ 00H 00H = -100 cents  
+ 40H 00H = A440  
+ 7FH 7FH = +100 cents  
+02H Channel Coarse Tuning  
+ (formerly Coarse Tuning - see MMA RP-022) Only MSB used  
+ Resolution 100 cents  
+ 00H = -6400 cents  
+ 40H = A440  
+ 7FH = +6300 cents  
+03H Tuning Program Change Tuning Program Number  
+04H Tuning Bank Select Tuning Bank Number  
+05H  Modulation Depth Range  
+ (see MMA General MIDI Level 2 Specification) For GM2, defined in GM2 Specification.  
+ For other systems, defined by manufacturer  
+ ...  ...  All RESERVED for future MMA Definition  ...  
+3DH (61) Three Dimensional Sound Controllers  
+00H AZIMUTH ANGLE  See RP-049  
+01H ELEVATION ANGLE  See RP-049  
+02H GAIN  See RP-049  
+03H DISTANCE RATIO  See RP-049  
+04H MAXIMUM DISTANCE  See RP-049  
+05H GAIN AT MAXIMUM DISTANCE  See RP-049  
+06H REFERENCE DISTANCE RATIO  See RP-049  
+07H PAN SPREAD ANGLE  See RP-049  
+08H ROLL ANGLE  See RP-049  
+ ...  ...  All RESERVED for future MMA Definition  ...  
+7FH 7FH Null Function Number for RPN/NRPN Setting RPN to 7FH,7FH will disable the data entry, data increment, and data decrement controllers until a new RPN or NRPN is selected.  
 
 ## References
 

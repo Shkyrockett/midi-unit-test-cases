@@ -1,6 +1,6 @@
 # Standard Midi File Format (SMF) Header
 
-Standard Midi files start with the ASCII sequence MThd (0x4D54_6864).
+Standard Midi files start with the ASCII sequence "`MThd`" (0x4D54_6864).
 
 ## File Type
 
